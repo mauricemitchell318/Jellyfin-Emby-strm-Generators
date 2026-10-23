@@ -117,6 +117,9 @@ This uses:
 - `-M3UFileName = "TVVOD.m3u"`
 - `-OutputDirectory = "TVVOD"`
 
+- `-M3UFileName = "Movievod.m3u"`
+- `-OutputDirectory = "VODMovies"`
+
 ---
 
 ## Custom Parameters
